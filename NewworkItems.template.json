@@ -1,0 +1,22 @@
+[
+  {
+    "System.WorkItemType": "User Story",
+    "System.Title": "YOUR_TITLE_HERE",
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "System.AreaPath": "YOUR_AREA_PATH_HERE",
+    "System.State": "YOUR_STATE_HERE"
+  },
+  {
+    "System.WorkItemType": "User Story",
+    "System.Title": "YOUR_TITLE_HERE",
+    "System.AreaPath": "YOUR_AREA_PATH_HERE",
+    "System.State": "YOUR_STATE_HERE"
+  },
+  {
+    "System.WorkItemType": "User Story",
+    "System.Title": "YOUR_TITLE_HERE",
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "System.AreaPath": "YOUR_AREA_PATH_HERE",
+    "System.State": "YOUR_STATE_HERE"
+  }
+]
