@@ -31,6 +31,10 @@ artifacts/
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
+# Ignore your input data (optional, but recommended if it's sensitive)
+NewWorkItems.json
+appsettings.json
+
 # NuGet Packages
 *.nupkg
 # NuGet Symbol Packages
